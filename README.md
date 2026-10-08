@@ -202,7 +202,4 @@ Higher $R^2$ indicates that the model explains more of the variation in the targ
 
 The implementation uses polynomial regression with regularisation to model the nonlinear relationships in both datasets. Lasso with degree 5 was selected for var1, while Ridge with degree 12 was selected for var2 based on validation MSE.
 
-## Author
 
-**Akshaya Akula**  
-**BT2024215**
